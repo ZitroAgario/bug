@@ -92,7 +92,7 @@
         y: 1
       };
       
-      this.position = {x: x - 10, y: y - 20};
+
 
       this.element = document.createElement('span');
       this.element.innerHTML = character;
