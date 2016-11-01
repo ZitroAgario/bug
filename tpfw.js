@@ -1,4 +1,4 @@
-function () {
+(function () {
     var follower, init, mouseX, mouseY, positionElement, printout, timer;
     follower = document.getElementById('follower');
     printout = document.getElementById('printout');
