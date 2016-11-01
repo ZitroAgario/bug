@@ -1,15 +1,1 @@
-#nomer1, #nomer2 {
-    width:50%;
-    display:inline-block;
-    text-align:center;
-}
-#nomer1 {
-    background-color:#CCCCCC;
-}
-#nomer2 {
-    background-color:#FFDD00;
-}
-#nomer2 {
-    cursor: url(http://htmlbook.ru/example/images/sniper.cur), auto;
-}
-body{ cursor: url('cursor1.cur'), auto;}
+body{cursor: url('cursor1.cur'), auto;}#game {cursor : url('animated.ani'), arrow;}
