@@ -1,2 +1,5 @@
 body{cursor: url('cursor1.cur'), auto;}
-.game {cursor : url('rainbowcursor.gif'), auto;}
+.game {cursor : url('rainbowcursor.gif'), auto;
+       width : 900
+       height : 500
+}
