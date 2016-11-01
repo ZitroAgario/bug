@@ -1,5 +1,4 @@
-body{cursor: url('cursor1.cur'), auto;}
-.game {cursor : url('rainbowcursor.gif'), auto;
+.game {
        width : 900px
        height : 500px
 }
